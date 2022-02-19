@@ -37,6 +37,6 @@ locator.clear();
 
 ## License ##
 
-You can redistribute it and/or modify it under the terms of the MIT license. SEE [LICENSE][1] for details.
+You can redistribute it and/or modify it under the terms of the MIT license. See [LICENSE][1] for details.
 
 [1]:LICENSE

@@ -1,5 +1,5 @@
 #include <cassert>
-#include "ServiceLocator.h"
+#include <ServiceLocator.hpp>
 
 //interface
 class IMathService

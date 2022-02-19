@@ -1,4 +1,4 @@
-#include "ServiceLocator.h"
+#include "ServiceLocator.hpp"
 
 ServiceLocator::ServiceLocator() 
 	: instances(), creators() 
